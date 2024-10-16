@@ -17,7 +17,3 @@ This project involves predicting stock prices of Apple (AAPL) and Google (GOOG) 
 ## Results
 The prediction accuracy and error rates for each model are compared. The training time for a fixed number of epochs is also measured and analyzed.
 
-## How to Run
-To run the stock market prediction model:
-```bash
-python stock_prediction_rnn.m
