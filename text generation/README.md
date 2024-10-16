@@ -1,9 +1,4 @@
 
----
-
-### 2. **Text Generation**
-
-```md
 # Text Generation Using RNN
 
 ## Overview
@@ -22,7 +17,3 @@ This project focuses on generating text based on a dataset from the book *Harry 
 ## Results
 The generated text is evaluated based on the model's accuracy and loss. The quality of text improves as the number of epochs increases.
 
-## How to Run
-To run the text generation model:
-```bash
-python text_generation_rnn.m
