@@ -1,9 +1,3 @@
-
----
-
-### 3. **Contextual Embedding + RNNs**
-
-```md
 # Contextual Embedding and RNN for Text Classification
 
 ## Overview
@@ -21,8 +15,3 @@ This project involves using Recurrent Neural Networks (RNNs) combined with conte
 
 ## Results
 The models are compared based on their accuracy and loss. The performance of BERT and HateBERT embeddings is analyzed.
-
-## How to Run
-To run the text classification model:
-```bash
-python embedding_lstm.m
